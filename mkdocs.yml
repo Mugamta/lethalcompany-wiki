@@ -1,0 +1,87 @@
+site_name: 리썰 컴퍼니 메커니즘 위키
+site_description: Lethal Company 게임 코드(Assembly-CSharp)를 직접 확인해 정리한 한국어 메커니즘 위키
+# GitHub에 올린 뒤 실제 주소로 바꾸세요 (예: https://<계정>.github.io/lethalcompany-wiki/)
+site_url: https://mugamta.github.io/lethalcompany-wiki/
+repo_url: https://github.com/Mugamta/lethalcompany-wiki
+repo_name: lethalcompany-wiki
+edit_uri: edit/main/docs/
+copyright: 팬 위키 · Lethal Company는 Zeekerss의 게임입니다. 이 사이트는 공식이 아닙니다.
+
+theme:
+  name: material
+  language: ko
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: 밝은 화면
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: 어두운 화면
+  icon:
+    logo: material/hard-hat
+
+plugins:
+  - search:
+      lang:
+        - ko
+        - en
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      # 한글 제목도 #앵커가 되도록
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - 홈: index.md
+  - 게임 메커니즘:
+      - mechanics/index.md
+      - 몬스터 스폰: mechanics/spawning.md
+      - 몬스터 감지·추격: mechanics/detection.md
+      - 소리와 눈 없는 개: mechanics/noise.md
+      - 몬스터 체력·공격·상태: mechanics/enemy-combat.md
+      - 날씨: mechanics/weather.md
+      - 돈·할당량·배송: mechanics/economy.md
+      - 시설·함정·장치: mechanics/facility.md
+      - 회사 창구 괴물: mechanics/company.md
+      - 시체 증식: mechanics/cadaver.md
+      - 은폐 수풀(덩굴): mechanics/vain-shroud.md
+      - 플레이어: mechanics/player.md
+  - 위키 기여: contributing.md
