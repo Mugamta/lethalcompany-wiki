@@ -71,16 +71,36 @@ markdown_extensions:
 
 nav:
   - 홈: index.md
-  - 게임 메커니즘:
-      - mechanics/index.md
-      - 몬스터 스폰: mechanics/spawning.md
-      - 몬스터 감지·추격: mechanics/detection.md
-      - 소리와 눈 없는 개: mechanics/noise.md
-      - 몬스터 체력·공격·상태: mechanics/enemy-combat.md
-      - 날씨: mechanics/weather.md
-      - 돈·할당량·배송: mechanics/economy.md
-      - 시설·함정·장치: mechanics/facility.md
-      - 회사 창구 괴물: mechanics/company.md
-      - 시체 증식: mechanics/cadaver.md
-      - 은폐 수풀(덩굴): mechanics/vain-shroud.md
-      - 플레이어: mechanics/player.md
+  - 함선:
+      - ship/index.md
+      - 돈·할당량·배송: ship/economy.md
+  - 위성:
+      - moons/index.md
+      - 몬스터 스폰 규칙: moons/spawning.md
+      - 행성별:
+          - 41-익스페리멘테이션: moons/experimentation.md
+          - 220-어슈어런스: moons/assurance.md
+          - 56-보우: moons/vow.md
+          - 21-오펜스: moons/offense.md
+          - 61-마치: moons/march.md
+          - 20-애더먼스: moons/adamance.md
+          - 85-렌드: moons/rend.md
+          - 7-다인: moons/dine.md
+          - 8-타이탄: moons/titan.md
+          - 68-아터피스: moons/artifice.md
+          - 5-엠브리온: moons/embrion.md
+          - 71-고르디온(회사): moons/company.md
+  - 기상: weather/index.md
+  - 폐기물: scrap/index.md
+  - 생명체:
+      - creatures/index.md
+      - 감지·추격: creatures/detection.md
+      - 소리와 눈 없는 개: creatures/noise.md
+      - 체력·공격·상태: creatures/combat.md
+      - 시체 증식: creatures/cadaver.md
+  - 함정: traps/index.md
+  - 환경 요소:
+      - environment/index.md
+      - 은폐 수풀: environment/vain-shroud.md
+      - 시설 구조물: environment/facility.md
+  - 플레이어: player/index.md
