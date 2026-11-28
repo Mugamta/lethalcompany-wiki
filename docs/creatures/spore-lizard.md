@@ -1,4 +1,4 @@
-# 포자 도마뱀
+# 포자 도마뱀 (Spore Lizard)
 
 **Spore Lizard** · 실내 몬스터
 

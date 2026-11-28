@@ -1,4 +1,4 @@
-# 튤립 뱀
+# 튤립 뱀 (Tulip Snake)
 
 **Tulip Snake** · 주간 몬스터
 

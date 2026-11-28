@@ -1,4 +1,4 @@
-# 납치범 여우
+# 납치범 여우 (Kidnapper Fox)
 
 **Kidnapper Fox** · 은폐 수풀 몬스터
 

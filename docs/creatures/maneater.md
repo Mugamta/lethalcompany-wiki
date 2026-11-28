@@ -1,4 +1,4 @@
-# 식인 괴물
+# 맨이터 (Maneater)
 
 **Maneater** · 실내 몬스터
 

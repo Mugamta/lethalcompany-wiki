@@ -1,4 +1,4 @@
-# 하이그로디어
+# 하이그로디어 (Hygrodere)
 
 **Hygrodere** · 실내 몬스터
 

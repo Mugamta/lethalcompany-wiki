@@ -1,4 +1,4 @@
-# 시체 증식종(개화)
+# 시체꽃 (Cadaver Bloom)
 
 **Cadaver Bloom** · 특수 몬스터
 

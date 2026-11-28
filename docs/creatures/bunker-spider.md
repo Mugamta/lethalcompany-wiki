@@ -1,4 +1,4 @@
-# 벙커 거미
+# 벙커 거미 (Bunker Spider)
 
 **Bunker Spider** · 실내 몬스터
 

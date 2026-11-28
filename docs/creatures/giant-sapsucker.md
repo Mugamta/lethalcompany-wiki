@@ -1,4 +1,4 @@
-# 거대 딱따구리
+# 거대 딱따구리 (Giant Sapsucker)
 
 **Giant Sapsucker** · 주간 몬스터
 

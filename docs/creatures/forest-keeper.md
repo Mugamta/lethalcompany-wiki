@@ -1,4 +1,4 @@
-# 숲지기
+# 숲지기 (Forest Keeper)
 
 **Forest Keeper** · 외부 몬스터
 

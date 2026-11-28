@@ -1,4 +1,4 @@
-# 호두까기 인형
+# 호두까기 인형 (Nutcracker)
 
 **Nutcracker** · 실내 몬스터
 

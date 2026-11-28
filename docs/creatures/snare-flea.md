@@ -1,4 +1,4 @@
-# 올가미 벼룩
+# 올가미 벼룩 (Snare Flea)
 
 **Snare Flea** · 실내 몬스터
 

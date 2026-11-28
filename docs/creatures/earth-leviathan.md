@@ -1,4 +1,4 @@
-# 육지 레비아탄
+# 육지 레비아탄 (Earth Leviathan)
 
 **Earth Leviathan** · 외부 몬스터
 

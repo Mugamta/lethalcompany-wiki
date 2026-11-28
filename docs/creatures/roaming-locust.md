@@ -1,4 +1,4 @@
-# 배회 메뚜기
+# 배회 메뚜기 (Roaming Locust)
 
 **Roaming Locust** · 주간 몬스터
 

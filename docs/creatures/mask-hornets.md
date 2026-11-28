@@ -1,4 +1,4 @@
-# 위장 말벌
+# 위장 말벌 (Mask Hornets)
 
 **Mask Hornets** · 특수 몬스터
 

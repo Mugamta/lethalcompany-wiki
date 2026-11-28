@@ -108,44 +108,44 @@ nav:
       - 시체 증식: creatures/cadaver.md
       - 몬스터별:
           - 실내:
-              - 가면 쓴 사람: creatures/masked.md
-              - 광대: creatures/jester.md
-              - 늪지 점액괴어: creatures/gunkfish.md
-              - 벙커 거미: creatures/bunker-spider.md
-              - 브래컨: creatures/bracken.md
-              - 비축 벌레: creatures/hoarding-bug.md
-              - 시체 증식종: creatures/cadaver-growths.md
-              - 식인 괴물: creatures/maneater.md
-              - 썸퍼: creatures/thumper.md
-              - 올가미 벼룩: creatures/snare-flea.md
-              - 유령 소녀: creatures/ghost-girl.md
-              - 이발사: creatures/barber.md
-              - 집사: creatures/butler.md
-              - 코일헤드: creatures/coil-head.md
-              - 포자 도마뱀: creatures/spore-lizard.md
-              - 하이그로디어: creatures/hygrodere.md
-              - 호두까기 인형: creatures/nutcracker.md
+              - 가면 쓴 사람 (Masked): creatures/masked.md
+              - 광대 (Jester): creatures/jester.md
+              - 늪지 점액괴어 (Backwater Gunkfish): creatures/gunkfish.md
+              - 벙커 거미 (Bunker Spider): creatures/bunker-spider.md
+              - 브래컨 (Bracken): creatures/bracken.md
+              - 비축 벌레 (Hoarding Bug): creatures/hoarding-bug.md
+              - 시체 증식종 (Cadaver Growths): creatures/cadaver-growths.md
+              - 맨이터 (Maneater): creatures/maneater.md
+              - 썸퍼 (Thumper): creatures/thumper.md
+              - 올가미 벼룩 (Snare Flea): creatures/snare-flea.md
+              - 유령 소녀 (Ghost Girl): creatures/ghost-girl.md
+              - 이발사 (Barber): creatures/barber.md
+              - 집사 (Butler): creatures/butler.md
+              - 코일헤드 (Coil-Head): creatures/coil-head.md
+              - 포자 도마뱀 (Spore Lizard): creatures/spore-lizard.md
+              - 하이그로디어 (Hygrodere): creatures/hygrodere.md
+              - 호두까기 인형 (Nutcracker): creatures/nutcracker.md
           - 외부:
-              - 개코 매: creatures/baboon-hawk.md
-              - 눈 없는 개: creatures/eyeless-dog.md
-              - 숲지기: creatures/forest-keeper.md
-              - 올드 버드: creatures/old-bird.md
-              - 육지 레비아탄: creatures/earth-leviathan.md
-              - 페이오파: creatures/feiopar.md
+              - 개코 매 (Baboon Hawk): creatures/baboon-hawk.md
+              - 눈 없는 개 (Eyeless Dog): creatures/eyeless-dog.md
+              - 숲지기 (Forest Keeper): creatures/forest-keeper.md
+              - 올드 버드 (Old Bird): creatures/old-bird.md
+              - 육지 레비아탄 (Earth Leviathan): creatures/earth-leviathan.md
+              - 페이오파 (Feiopar): creatures/feiopar.md
           - 주간:
-              - 거대 딱따구리: creatures/giant-sapsucker.md
-              - 만티코일: creatures/manticoil.md
-              - 배회 메뚜기: creatures/roaming-locust.md
-              - 튤립 뱀: creatures/tulip-snake.md
-              - 회로 벌: creatures/circuit-bees.md
+              - 거대 딱따구리 (Giant Sapsucker): creatures/giant-sapsucker.md
+              - 만티코일 (Manticoil): creatures/manticoil.md
+              - 배회 메뚜기 (Roaming Locust): creatures/roaming-locust.md
+              - 튤립 뱀 (Tulip Snake): creatures/tulip-snake.md
+              - 회로 벌 (Circuit Bees): creatures/circuit-bees.md
           - 은폐 수풀:
-              - 납치범 여우: creatures/kidnapper-fox.md
+              - 납치범 여우 (Kidnapper Fox): creatures/kidnapper-fox.md
           - 특수:
-              - 시체 증식종(개화): creatures/cadaver-bloom.md
-              - 위장 말벌: creatures/mask-hornets.md
+              - 시체꽃 (Cadaver Bloom): creatures/cadaver-bloom.md
+              - 위장 말벌 (Mask Hornets): creatures/mask-hornets.md
   - 함정: traps/index.md
   - 환경 요소:
       - environment/index.md
-      - 은폐 수풀: environment/vain-shroud.md
+      - 은폐 수풀 (Vain Shroud): environment/vain-shroud.md
       - 시설 구조물: environment/facility.md
   - 플레이어: player/index.md

@@ -1,4 +1,4 @@
-# 유령 소녀
+# 유령 소녀 (Ghost Girl)
 
 **Ghost Girl** · 실내 몬스터
 

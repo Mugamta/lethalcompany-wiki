@@ -1,4 +1,4 @@
-# 늪지 점액괴어
+# 늪지 점액괴어 (Backwater Gunkfish)
 
 **Backwater Gunkfish** · 실내 몬스터
 

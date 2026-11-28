@@ -1,4 +1,4 @@
-# 만티코일
+# 만티코일 (Manticoil)
 
 **Manticoil** · 주간 몬스터
 

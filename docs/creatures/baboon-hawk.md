@@ -1,4 +1,4 @@
-# 개코 매
+# 개코 매 (Baboon Hawk)
 
 **Baboon Hawk** · 외부 몬스터
 

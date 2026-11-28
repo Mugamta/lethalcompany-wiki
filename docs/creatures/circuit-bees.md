@@ -1,4 +1,4 @@
-# 회로 벌
+# 회로 벌 (Circuit Bees)
 
 **Circuit Bees** · 주간 몬스터
 

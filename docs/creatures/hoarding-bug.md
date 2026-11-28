@@ -1,4 +1,4 @@
-# 비축 벌레
+# 비축 벌레 (Hoarding Bug)
 
 **Hoarding Bug** · 실내 몬스터
 

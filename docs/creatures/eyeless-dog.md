@@ -1,4 +1,4 @@
-# 눈 없는 개
+# 눈 없는 개 (Eyeless Dog)
 
 **Eyeless Dog** · 외부 몬스터
 
