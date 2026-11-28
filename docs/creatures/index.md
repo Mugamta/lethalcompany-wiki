@@ -106,9 +106,9 @@
 - **[광대](jester.md)** (Jester): 따라다니다 태엽을 감고 튀어나와 시설 안 아무나 추격
 - **[늪지 점액괴어](gunkfish.md)** (Backwater Gunkfish): 늪·물속에 위장. 1.5m 안 접근이나 맞으면 돌진
 - **[벙커 거미](bunker-spider.md)** (Bunker Spider): 거미줄을 치고 기다림. 시야 80°/15m
-- **[브래컨](bracken.md)** (Bracken): 가장 가까운 사람에게 몰래 접근. 들키면 피하고, 계속 쳐다보면 분노
+- **[브래컨](bracken.md)** (Bracken): 가장 가까운 사람에게 몰래 접근. 들키면 피하고, 몰리거나 마주 노려보면 분노
 - **[비축 벌레](hoarding-bug.md)** (Hoarding Bug): 폐품을 둥지에 모음. 둥지 물건을 들거나 가까이 있으면 분노
-- **[시체 증식종](cadaver-growths.md)** (Cadaver Growths): 방을 따라 퍼지며 근처 플레이어를 감염
+- **[시체 증식종](cadaver-growths.md)** (Cadaver Growths): 방을 따라 퍼지며 식물이 있는 방 안의 플레이어를 감염
 - **[식인 괴물](maneater.md)** (Maneater): 아기는 울며 관찰, 자라면 성체가 되어 추격
 - **[썸퍼](thumper.md)** (Thumper): 시야 55°/60m에 보이면 추격, 직선에서 빨라짐
 - **[올가미 벼룩](snare-flea.md)** (Snare Flea): 천장에 붙어 있다가 바로 밑을 지나가면 떨어져 머리에 달라붙음
@@ -117,7 +117,7 @@
 - **[집사](butler.md)** (Butler): 평소엔 공격 안 함. 혼자 남은 사람을 노림. 맞으면 광폭. 죽으면 위장 말벌·부엌칼
 - **[코일헤드](coil-head.md)** (Coil-Head): 보고 있으면 멈춤. 안 보면 빠르게 다가옴
 - **[포자 도마뱀](spore-lizard.md)** (Spore Lizard): 보이면 도망. 몰리거나 맞으면 반격
-- **[하이그로디어](hygrodere.md)** (Hygrodere): 시야·소리 감지 없음. 가장 가까운 사람 쪽으로 천천히 이동
+- **[하이그로디어](hygrodere.md)** (Hygrodere): 시야 감지 없음. 가장 가까운 사람 쪽으로 천천히 이동. 붐박스를 들으면 얌전해짐
 - **[호두까기 인형](nutcracker.md)** (Nutcracker): 머리를 돌려 감시, 감시 중 움직이면 사격
 
 ### 외부 {#행동-외부}
