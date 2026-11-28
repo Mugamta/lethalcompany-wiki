@@ -180,3 +180,9 @@
 }
 .md-typeset .sf-table .sf-cell.sf-strong { color: #fff; }
 .md-typeset .sf-table .sf-na { background: none; color: var(--sf-text-2); }
+
+/* ── 페이지 폭 넓히기: 좌우 빈 공간 줄이기 ───────────── */
+/* Material 기본 최대 폭(61rem)을 늘려 넓은 화면에서 본문을 더 넓게 */
+.md-grid {
+  max-width: 80rem;
+}
