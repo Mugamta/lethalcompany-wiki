@@ -100,6 +100,23 @@ nav:
           - 71-고르디온(회사): moons/company.md
   - 기상: weather/index.md
   - 폐기물: scrap/index.md
+  - 아이템:
+      - items/index.md
+      - 상점 아이템:
+          - 무전기: items/walkie-talkie.md
+          - 손전등 · 프로 손전등: items/flashlight.md
+          - 자물쇠 따개: items/lockpicker.md
+          - 제초제: items/weed-killer.md
+          - 삽: items/shovel.md
+          - 섬광탄: items/stun-grenade.md
+          - 벨트 가방: items/belt-bag.md
+          - 스프레이 페인트: items/spray-paint.md
+          - 붐박스: items/boombox.md
+          - 연장 사다리: items/extension-ladder.md
+          - 레이더 부스터: items/radar-booster.md
+          - TZP 흡입제: items/tzp-inhalant.md
+          - 잽건: items/zap-gun.md
+          - 제트팩: items/jetpack.md
   - 생명체:
       - creatures/index.md
       - 감지·추격: creatures/detection.md
