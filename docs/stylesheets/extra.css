@@ -1,0 +1,52 @@
+/* ── 본문 제목 구분: 번호 + 선 ───────────────────────── */
+.md-content__inner {
+  counter-reset: h2;
+}
+
+/* 큰 메뉴 (##) : 번호, 굵은 글씨, 아래 구분선 */
+.md-content__inner > h2 {
+  counter-reset: h3;
+  margin-top: 2.4em;
+  padding-bottom: 0.35em;
+  border-bottom: 2px solid var(--md-primary-fg-color);
+  font-weight: 700;
+  color: var(--md-default-fg-color);
+}
+.md-content__inner > h2::before {
+  counter-increment: h2;
+  content: counter(h2) ". ";
+  color: var(--md-primary-fg-color);
+}
+
+/* 작은 메뉴 (###) : 1.1 번호 + 왼쪽 막대 */
+.md-content__inner > h3 {
+  margin-top: 1.8em;
+  padding-left: 0.6em;
+  border-left: 4px solid var(--md-accent-fg-color);
+  font-weight: 700;
+}
+.md-content__inner > h3::before {
+  counter-increment: h3;
+  content: counter(h2) "." counter(h3) " ";
+  color: var(--md-accent-fg-color);
+}
+
+/* ── 오른쪽 목차에도 같은 번호 ─────────────────────── */
+.md-nav--secondary > .md-nav__list {
+  counter-reset: toc2;
+}
+.md-nav--secondary > .md-nav__list > .md-nav__item {
+  counter-reset: toc3;
+}
+.md-nav--secondary > .md-nav__list > .md-nav__item > .md-nav__link::before {
+  counter-increment: toc2;
+  content: counter(toc2) ". ";
+}
+.md-nav--secondary > .md-nav__list > .md-nav__item > .md-nav > .md-nav__list > .md-nav__item > .md-nav__link::before {
+  counter-increment: toc3;
+  content: counter(toc2) "." counter(toc3) " ";
+}
+.md-nav--secondary .md-nav__link::before {
+  margin-right: 0.15em;
+  opacity: 0.7;
+}

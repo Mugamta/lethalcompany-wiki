@@ -38,6 +38,9 @@ theme:
   icon:
     logo: material/hard-hat
 
+extra_css:
+  - stylesheets/extra.css
+
 plugins:
   - search:
       lang:
