@@ -12,6 +12,7 @@ theme:
   language: ko
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
     - navigation.top
     - navigation.indexes
@@ -83,6 +84,7 @@ nav:
   - 위성:
       - moons/index.md
       - 몬스터 스폰 규칙: moons/spawning.md
+      - 시간대별 기대 스폰: moons/forecast.md
       - 행성별:
           - 41-익스페리멘테이션: moons/experimentation.md
           - 220-어슈어런스: moons/assurance.md
