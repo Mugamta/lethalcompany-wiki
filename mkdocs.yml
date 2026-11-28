@@ -41,6 +41,9 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - javascripts/fit-tables.js
+
 plugins:
   - search:
       lang:
